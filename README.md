@@ -7,7 +7,7 @@ Document grouping is considered important in information retrieval that organizi
 ### Dataset
 Datasets that used on this experiments consist of two datasets:
 1. Internet News Data with Readers Engagement
-    This dataset contain articles from several well-known publishers and is listed based on popularity on the publisher's website
+        This dataset contain articles from several well-known publishers and is listed based on popularity on the publisher's website
 2. Wikipedia Movie Plots
     This dataset contains data on summary plot descriptions taken from Wikipedia.
 
